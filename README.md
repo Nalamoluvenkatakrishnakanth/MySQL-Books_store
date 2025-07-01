@@ -7,15 +7,15 @@ This project is a books_store that allows for efficient management of books_stor
 Create a new database named "Book_store" to store the information.
 create tables branch,employees,customers,issuance and return status tables,books table
 ## Features
-#### Books Management: 
+#### i) Books Management: 
     Add, update, and remove books from the library's collection. Track book details such as title, category, rental price, availability status, author, and publisher.
-#### Customer Management:
+#### ii) Customer Management:
     Maintain a record of library customers, including their names, addresses, registration dates, and issuance history.
-#### Employee Management: 
+#### iii) Employee Management: 
     Manage library staff, including employee names, positions, salaries, and branch assignments.
-#### Book Issuance and Returns: 
+#### iv) Book Issuance and Returns: 
     Track the issuance and return of books by customers. Monitor the status of issued books and ensure timely returns.
-#### Branch Management: 
+#### v) Branch Management: 
     Maintain information about library branches, including branch numbers, manager assignments, addresses, and contact details.
 ## Queries and Analysis
 The project includes various SQL queries and data analysis tasks to extract valuable insights from the library's data. Some of the key queries implemented include:
